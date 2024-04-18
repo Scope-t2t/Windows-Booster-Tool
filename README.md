@@ -7,8 +7,8 @@ Welcome to Windows Booster Tool - your go-to solution for optimizing Windows per
 - **Boost Windows Performance:** Optimize system performance for smoother operation.
 - **Restore Settings:** Easily revert system settings to their original state.
 
-## Developed by Scope_T2T
-Windows Booster Tool is developed and maintained by Scope_T2T, ensuring safety, reliability, and regular updates for peak performance.
+## Developed by SCPE
+Windows Booster Tool is developed and maintained by SCPE, ensuring safety, reliability, and regular updates for peak performance.
 
 ## Q&A
 
