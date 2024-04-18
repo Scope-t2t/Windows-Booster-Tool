@@ -24,11 +24,22 @@ Yes, Windows Booster Tool is regularly updated to provide users with the latest 
 ### Can I distribute or sell Windows Booster Tool?
 No, distribution or selling of Windows Booster Tool is strictly prohibited. It is intended for personal use only.
 
-## Get Started
-Download the latest version of Windows Booster Tool from the releases section and follow the installation instructions.
+### Why do you do this for free?
+We understand the challenges users face with system optimization and have personally experienced the frustration. Now that we have the knowledge to create such tools without cost, we want to help make your lives easier.
+
+### Are there any big updates planned?
+Yes, we're planning on releasing updates that include features like overclocking your system and improvements to local Internet connection.
 
 ## Support
-For any questions or issues, please reach out to Scope_T2T on GitHub or visit our Discord server for assistance.
+For any questions or issues, please visit our Discord server for assistance. We value your feedback and are here to help!
+
+## Donations
+If you find Windows Booster Tool useful and would like to support its development, you can make a donation via [patreon.com/WindowsBoosterTool].
+
+## Social Media
+Stay connected with us on social media:
+- [TikTok](https://www.tiktok.com/@windowsbooster?is_from_webapp=1&sender_device=pc)
+- [Instagram](https://www.instagram.com/window_booster/)
 
 ## License
 Windows Booster Tool is licensed under the [MIT License](LICENSE).
