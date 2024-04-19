@@ -24,6 +24,11 @@ Yes, Windows Booster Tool is regularly updated to provide users with the latest 
 ### Can I distribute or sell Windows Booster Tool?
 No, distribution or selling of Windows Booster Tool is strictly prohibited. It is intended for personal use only.
 
+### Are my saved Service Settings no longer saved after Updating?
+Your saved Service Settings will be copied to the desktop after every update (if they exist).
+#### Please move the .txt file into the new folder after every update [if there is one].
+#### IMPORTANT: DO NOT CHANGE ANYTHING IN THE .txt FILE IF YOU DON'T KNOW WHAT YOU ARE DOING!
+
 ### Why do you do this for free?
 We understand the challenges users face with system optimization and have personally experienced the frustration. Now that we have the knowledge to create such tools without cost, we want to help make your lives easier.
 
