@@ -7,7 +7,6 @@ Welcome to Windows Booster Tool - your go-to solution for optimizing Windows per
 - **Clean Temporary Files:** Remove unnecessary temp files to free up disk space.
 - **Boost Windows Performance:** Optimize system performance for smoother operation.
 - **Restore Settings:** Easily revert system settings to their original state.
-- 
 
 ------------------
 
