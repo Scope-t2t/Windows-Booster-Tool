@@ -2,7 +2,7 @@
 
 Welcome to Windows Booster Tool - your go-to solution for optimizing Windows performance effortlessly. This user-friendly application offers a range of features designed to enhance your system's efficiency and streamline your experience.
 
-## Please read the Instrucion.md for help.
+## Please read the Instruction.md for help.
 
 
 ## Features
