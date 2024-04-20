@@ -25,6 +25,10 @@ Thank you for choosing Windows Booster Tool to optimize your system performance.
    - Open Windows Booster Tool.
    - Enter `3` and press Enter to select the "Restore System Settings" option.
    - Follow the instructions to revert system settings to their original state.
+  
+5. **Important Informations:**
+   - Open Windows Booster Tool.
+   - Enter `5` and press Enter to select the "IMPORTANT INFORMATIONS" option.
 
 ## Troubleshooting
 
