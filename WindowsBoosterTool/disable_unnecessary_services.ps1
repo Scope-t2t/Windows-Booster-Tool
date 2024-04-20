@@ -2,29 +2,22 @@ $unnecessaryServices = @(
     "AdobeARMservice",
     "ALG",
     "AppXSvc",
-    "BITS",
-    "DoSvc",
     "Fax",
     "HomeGroupProvider",
     "iphlpsvc",
     "lltdsvc",
     "MapsBroker",
     "NgcSvc",
-    "NlaSvc",
     "PNRPsvc",
     "RetailDemo",
     "SCPolicySvc",
     "SENS",
-    "SSDPSRV",
     "StorSvc",
-    "Themes",
     "TrkWks",
     "UevAgentService",
     "WbioSrvc",
     "WMPNetworkSvc",
-    "WPCSvc",
-    "WSearch",
-    "WwanSvc"
+    "WPCSvc"
 )
 
 # Disable unnecessary services
