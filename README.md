@@ -7,6 +7,13 @@ Welcome to Windows Booster Tool - your go-to solution for optimizing Windows per
 
 ------------------
 
+## Requierments
+
+- **Windows 10**
+- **.NET 8.0 link: https://dotnet.microsoft.com/en-us/download/dotnet/8.0**
+
+------------------
+
 ## Features
 - **Clean Temporary Files:** Remove unnecessary temp files to free up disk space.
 - **Boost Windows Performance:** Optimize system performance for smoother operation.
