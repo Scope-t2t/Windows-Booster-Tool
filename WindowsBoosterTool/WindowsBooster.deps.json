@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "WindowsBooster/0.1.1.0": {
+      "WindowsBooster/0.1.1.5": {
         "dependencies": {
           "System.ServiceProcess.ServiceController": "8.0.0",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.22621.31"
@@ -71,7 +71,7 @@
     }
   },
   "libraries": {
-    "WindowsBooster/0.1.1.0": {
+    "WindowsBooster/0.1.1.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
